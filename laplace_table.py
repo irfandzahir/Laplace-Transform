@@ -29,7 +29,7 @@ laplace_table = {
 }
 
 # Streamlit app
-st.title("Simplified Laplace Transform Table Viewer")
+st.title("Laplace Transform Table Viewer")
 st.write("Explore Laplace transformations between the time and Laplace domains for simplified functions.")
 
 # User input: Direction and function selection
